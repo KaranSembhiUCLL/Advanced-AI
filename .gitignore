@@ -1,3 +1,2 @@
-.DS_Store
-.env
-dataset/eye_dataset_local
+dataset/eye_cache/
+dataset/closed-open-eyes/
