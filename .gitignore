@@ -1,1 +1,3 @@
 .DS_Store
+.env
+dataset/eye_dataset_local
