@@ -25,6 +25,7 @@ Als je wat verder wilt gaan, kun je meerdere signalen combineren, zoals:
 
 # Mogelijke datasets
 
-https://huggingface.co/datasets/MichalMlodawski/closed-open-eyes
+https://huggingface.co/datasets/MichalMlodawski/closed-open-eyes  
+https://hyper.ai/en/datasets/22045
 
 pip install -r requirements.txt
