@@ -1,0 +1,11 @@
+torch==2.4.1
+torchvision==0.19.1
+torchaudio==2.4.1
+opencv-python==4.10.0.84
+scikit-learn==1.5.1
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.2
+pillow==10.4.0
+jupyter==1.1.1
+pyarrow

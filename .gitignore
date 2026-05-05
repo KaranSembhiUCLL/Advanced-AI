@@ -6,3 +6,6 @@ Model/.DS_Store
 .env
 .DS_Store
 Model/haarcascade_frontalface_default.xml
+fatigue_venv/
+Model/archive/dataset_met_getallen.csv
+Model/archive/fatigue_model.pth
