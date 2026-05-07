@@ -9,3 +9,10 @@ Model/haarcascade_frontalface_default.xml
 fatigue_venv/
 Model/archive/dataset_met_getallen.csv
 Model/archive/fatigue_model.pth
+dataset/yawn-no-yawn
+Model/eyes/fatigue_model_complete.pth
+.gitignore
+Model/yawn/yawn_model.pth
+Model/eyes/dataset_met_getallen.csv
+Model/eyes/fatigue_model.pth
+Model/eyes/haarcascade_frontalface_default.xml

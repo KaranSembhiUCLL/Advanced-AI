@@ -26,6 +26,6 @@ Als je wat verder wilt gaan, kun je meerdere signalen combineren, zoals:
 # Mogelijke datasets
 
 https://huggingface.co/datasets/MichalMlodawski/closed-open-eyes  
-https://hyper.ai/en/datasets/22045
+https://www.kaggle.com/datasets/davidvazquezcic/yawn-dataset
 
 pip install -r requirements.txt
