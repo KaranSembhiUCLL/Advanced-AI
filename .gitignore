@@ -16,3 +16,5 @@ Model/yawn/yawn_model.pth
 Model/eyes/dataset_met_getallen.csv
 Model/eyes/fatigue_model.pth
 Model/eyes/haarcascade_frontalface_default.xml
+dataset/eyecache
+dataset/eyecache
