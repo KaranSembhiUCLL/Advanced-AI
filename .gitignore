@@ -23,3 +23,5 @@ dataset/my_eye_finetune_cache
 Model/eyes/fatigue_model_finetuned.pth
 dataset/my_yawn_finetune
 Model/yawn/yawn_model_finetuned.pth
+documentation/Nodige-dinge.md
+documentation/downloadingthedataset.ipynb 
