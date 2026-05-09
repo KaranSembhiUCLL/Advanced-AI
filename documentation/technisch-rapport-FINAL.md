@@ -8,7 +8,7 @@ De motivatie voor dit project is verkeersveiligheid: in taxi’s, vrachtwagens e
 
 De aanpak combineert computer vision en deep learning. We gebruikten OpenCV voor beeldverwerking, MediaPipe Face Landmarker voor gezichtsinformatie en hoofdoriëntatie, PyTorch voor de trainingspipeline en realtime inferentie, en twee aparte classificatiemodellen: één voor open/gesloten ogen en één voor geeuwen.
 
-Repository-link:
+Repository-link: https://github.com/KaranSembhiUCLL/Advanced-AI
 
 ## Data
 
